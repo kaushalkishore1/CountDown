@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountDown</string>
+    <string name="countdown">There are only</string>
+    <string name="countdownleft">For Happy New Year 2017!</string>
+</resources>
